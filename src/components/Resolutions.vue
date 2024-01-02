@@ -122,8 +122,8 @@ export default {
     return {
       resolutions: [
         "That I will do whatsoever I think to be most to God’s glory, and my own good, profit and pleasure, in the whole of my duration, without any consideration of the time, whether now, or never so many myriad’s of ages hence. To do whatever I think to be my duty and most for the good and advantage of mankind in general. To do this, whatever difficulties I meet with, how many and how great soever.",
-        "To be continually endeavoring to find out some new invention and contrivance to promote the aforementioned things.If ever I shall fall and grow dull, so as to neglect to keep any part of these Resolutions, to repent of all I can remember, when I come to myself again.",
-        "Resolved, if ever I shall fall and grow dull, so as to neglect to keep any part of these Resolutions, to repent of all I can remember, when I come to myself again.",
+        "To be continually endeavoring to find out some new invention and contrivance to promote the aforementioned things.",
+        "If ever I shall fall and grow dull, so as to neglect to keep any part of these Resolutions, to repent of all I can remember, when I come to myself again.",
         "Never to do any manner of thing, whether in soul or body, less or more, but what tends to the glory of God; nor be, nor suffer it, if I can avoid it.",
         "Never to lose one moment of time; but improve it the most profitable way I possibly can.",
         "To live with all my might, while I do live.",
