@@ -8,7 +8,7 @@ import Resolutions from "./components/Resolutions.vue";
       >©{{ new Date().getFullYear() }} Benjamin Bassett</span
     >
     <span class="github"
-      ><a href="https://github.com/benonymity" target="_blank" data-umami-event="github">Github</a></span
+      ><a href="https://github.com/benonymity/resolutions" target="_blank" data-umami-event="github">Github</a></span
     >
     <header>
       <a
