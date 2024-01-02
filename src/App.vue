@@ -8,13 +8,14 @@ import Resolutions from "./components/Resolutions.vue";
       >©{{ new Date().getFullYear() }} Benjamin Bassett</span
     >
     <span class="github"
-      ><a href="https://github.com/benonymity" target="_blank">Github</a></span
+      ><a href="https://github.com/benonymity" target="_blank" data-umami-event="github">Github</a></span
     >
     <header>
       <a
         href="https://www.desiringgod.org/articles/the-resolutions-of-jonathan-edwards"
         target="_blank"
         style="text-decoration: none"
+        data-umami-event="original"
       >
         <p class="title">
           <span class="real-title">The Resolutions of Johnathan Edwards</span>
@@ -25,7 +26,7 @@ import Resolutions from "./components/Resolutions.vue";
       <div class="resolved">
         <p>Resolved:</p>
       </div>
-      <Resolutions class="resolutions" />
+      <Resolutions class="resolutions"/>
     </div>
   </div>
 </template>

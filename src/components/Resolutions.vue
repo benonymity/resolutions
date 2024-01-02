@@ -200,6 +200,7 @@ export default {
       try {
         await navigator.clipboard.writeText("Resolved: " + resolutionText);
         this.showToast = true;
+        umami.track('copied')
         setTimeout(() => {
           this.showToast = false;
         }, 2500);
